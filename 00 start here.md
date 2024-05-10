@@ -1,6 +1,9 @@
 
 
 ![[IMG_8253.jpg]]
+image: original goals, on paper
+NB: at risk of some dead links and confusion, wikilinks and image embeds are left as-is here so I can incorporate the proper files into this repo at a later time
+
 
 original goals from first one-on-one meeting, 2024-02-05
 
